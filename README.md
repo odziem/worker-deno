@@ -1,4 +1,4 @@
-# Planet CSV Parser
+# Web Worker Example
 
 ## Installation
 
